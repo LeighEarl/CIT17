@@ -1,7 +1,7 @@
-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
+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
 
 Setting up token (optional)
-git remote set-url origin https://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@github.com/LeighEarl/CIT17.git
+git remote set-url origin https://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@github.com/LeighEarl/CIT17.git
 
 Add files to your local repository
 
