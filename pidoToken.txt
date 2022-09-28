@@ -1,0 +1,13 @@
+Permanent
+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
+
+Setting up token (optional)
+git remote set-url origin https://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@github.com/LeighEarl/CIT17.git
+
+Add files to your local repository
+
+Upload it to your repository by using this commands:
+git add . 
+git commit -m "first upload"
+git push
+
