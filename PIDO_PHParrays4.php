@@ -8,7 +8,6 @@
 $a = array (25,12,43);
 $fr = array_fill(0, count($a), 0);
 $check = -1;
-
 echo("Input 3 elements in the array: <br> ");
 for($i = 0; $i < count($a); $i++)
 {
